@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/l01_sql_study.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l02_aggre.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l03_fucntion.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l04_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l05_scott.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l06_dml.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l07_selfjoin.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l08_subquery.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l09_multirow_subquery.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l10_paging.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l11_over.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l12_view.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/l13_ddl.sql" dialect="Oracle" />
+  </component>
+</project>
